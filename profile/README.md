@@ -1,1 +1,1 @@
-Moved to [github.com/base](https://github.com/base).
+Moved to [github.com/base](https://github.com/base)
